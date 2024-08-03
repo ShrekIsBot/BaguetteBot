@@ -1,0 +1,11 @@
+instadm.py
+__pycache__/instadm.cpython-39.pyc
+BaguetteBot*.py
+Baguettes/test.txt
+pip.txt
+*.log
+Lavalink.jar
+*.pyc
+logs/*
+Untitled-1.py
+cogs/application.yml
